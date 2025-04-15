@@ -1,12 +1,27 @@
-### 👋 Hi, I’m @rebeccalindman
-- 👀 I’m interested in UX, system development, project management, and much more
-- 🌱 I’m currently learning Fullstack JavaScript
-- 💞️ I’m looking to collaborate on interactive web applications
-- 📫 How to reach me: PM
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Lindy Hop and Boogie Woogie is my jam
+### 👋 Hi, I’m Rebecca Lindman (@rebeccalindman)
 
-- <a styling="color: black" href="https://www.linkedin.com/in/rebecca-lindman/"><img src="./in-logo/LI-In-Bug.png" width="20" height="20" alt="LinkedIn" /> Connect with me </a>
+I'm a curious and creative fullstack developer-in-training with a background in design, product development, and project management. I’m currently diving deep into JavaScript and building interactive web applications — always with the user in mind.
+
+---
+
+#### 🌱 What I’m working on
+- Learning fullstack JavaScript (Node.js, Express, MongoDB, React)
+- Exploring UX principles in web development
+- Building projects that combine tech, design, and social impact
+
+#### 👀 Interests
+- UX & system development  
+- Agile project management & product strategy  
+- Innovation, transparency, and sustainable tech
+
+#### 🤝 Let's connect!
+- 🔗 [LinkedIn: rebecca-lindman](https://www.linkedin.com/in/rebecca-lindman/)
+- 📫 Message me directly here on GitHub
+
+#### 🎉 Fun fact
+- I'm a Lindy Hop & Boogie Woogie dancer — catch me on the dance floor when I'm not coding!
+
+---
 
 <!---
 rebeccalindman/rebeccalindman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
