@@ -15,7 +15,7 @@ I'm a curious and creative fullstack developer-in-training with a background in 
 - Innovation, transparency, and sustainable tech
 
 #### 🤝 Let's connect!
-- 🔗 [LinkedIn: rebecca-lindman](https://www.linkedin.com/in/rebecca-lindman/)
+-  <img src="./in-logo/LI-In-Bug.png" width="20" height="20" /> [LinkedIn: rebecca-lindman](https://www.linkedin.com/in/rebecca-lindman/)
 - 📫 Message me directly here on GitHub
 
 #### 🎉 Fun fact
