@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Lindy Hop and Boogie Woogie is my jam
 
-- <a style="color: black" href="https://www.linkedin.com/in/rebecca-lindman/"><img src="./in-logo/LI-In-Bug.png" width="20" height="20" alt="LinkedIn" /> Connect with me </a>
+- <a styling="color: black" href="https://www.linkedin.com/in/rebecca-lindman/"><img src="./in-logo/LI-In-Bug.png" width="20" height="20" alt="LinkedIn" /> Connect with me </a>
 
 <!---
 rebeccalindman/rebeccalindman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
