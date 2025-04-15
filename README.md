@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rebeccalindman
+### 👋 Hi, I’m @rebeccalindman
 - 👀 I’m interested in UX, system development, project management, and much more
 - 🌱 I’m currently learning Fullstack JavaScript
 - 💞️ I’m looking to collaborate on interactive web applications
