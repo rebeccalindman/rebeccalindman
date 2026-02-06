@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Rebecca Lindman (@rebeccalindman)
 
-I'm a curious and creative fullstack developer-in-training with a background in design, product development, and project management. I’m currently diving deep into JavaScript and building interactive web applications — always with the user in mind.
+I'm a curious and creative fullstack developer-in-training with a background in design, product development, business development, and project management. I’m currently diving deep into the world of TypeScript and building interactive web applications — always with the user in mind.
 
 ---
 
 #### 🌱 What I’m working on
-- Learning fullstack JavaScript (Node.js, Express, MongoDB, React)
+- Learning fullstack JS/TS (MongoDB/PostgresSQL, Express, React, Node.js)
 - Exploring UX principles in web development
 - Building projects that combine tech, design, and social impact
 
