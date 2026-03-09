@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Rebecca Lindman (@rebeccalindman)
 
-I'm a curious and creative fullstack developer-in-training with a background in design, product development, business development, and project management. I’m currently diving deep into the world of TypeScript and building interactive web applications — always with the user in mind.
+I'm a mindful and creative fullstack developer-in-training with a background in design, product development, business development, and project management. I’m currently diving deep into the world of TypeScript and building interactive web applications — always with the user in mind.
 
 ---
 
