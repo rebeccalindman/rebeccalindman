@@ -4,21 +4,21 @@ I'm a mindful and creative fullstack developer-in-training with a background in 
 
 ---
 
-#### 🌱 What I’m working on
+#### What I’m working on
 - Learning fullstack JS/TS (MongoDB/PostgresSQL, Express, React, Node.js)
 - Exploring UX principles in web development
 - Building projects that combine tech, design, and social impact
 
-#### 👀 Interests
+#### Interests
 - UX & system development  
 - Agile project management & product strategy  
 - Innovation, transparency, and sustainable tech
 
 #### 🤝 Let's connect!
 -  <img src="./in-logo/LI-In-Bug.png" width="20" height="20" /> [LinkedIn: rebecca-lindman](https://www.linkedin.com/in/rebecca-lindman/)
-- 📫 Message me directly here on GitHub
+-  Message me directly here on GitHub
 
-#### 🎉 Fun fact
+#### Fun fact
 - I'm a Lindy Hop & Boogie Woogie dancer — catch me on the dance floor when I'm not coding!
 
 ---
